@@ -3,8 +3,8 @@
   <modelVersion>4.0.2</modelVersion>
 
   <groupId>com.demo</groupId>
-  <artifactId>selenium.automation</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>selenium.automation.ver1</artifactId>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>selenium.automation</name>
