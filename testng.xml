@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
   
-<suite name="Suite1" verbose="5" >
+<suite name="Suite1" verbose="9" >
   <test name="Regression3" >
     <classes>
        <class name="com.demo.selenium.automation.BRS_1_GoogleTest" />
